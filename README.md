@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--
+<!---->
 ## 📊 Top ngôn ngữ được dùng
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=10&hide_progress=false&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aimachinius&layout=compact&langs_count=10&hide_progress=false&theme=default)
 
 ## ⚡ Hoạt động trên Github
-![Metrics](https://metrics.lecoq.io/your-username?template=classic&base.activity=true&languages=1&isocalendar=1&followup=1)
+![Metrics](https://metrics.lecoq.io/aimachinius?template=classic&base.activity=true&languages=1&isocalendar=1&followup=1)
 
 
 
--->
+
 Core values
