@@ -20,8 +20,5 @@ Here are some ideas to get you started:
 
 ## ⚡ Hoạt động trên Github
 ![Metrics](https://github.com/aimachinius/aimachinius/blob/main/github-metrics.svg)
-
-
-
-
-Core values
+<!---->
+"Core values"
