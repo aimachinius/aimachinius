@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aimachinius&layout=compact&langs_count=10&hide_progress=false&theme=default)
 
 ## ⚡ Hoạt động trên Github
-![Metrics](https://github.com/aimachinius/aimachinius/blob/main/metrics.svg)
+![Metrics](https://github.com/aimachinius/aimachinius/blob/main/github-metrics.svg)
 
 
 
