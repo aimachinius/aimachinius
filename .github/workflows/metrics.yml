@@ -21,3 +21,4 @@ jobs:
           plugin_followup: yes
           filename: metrics.svg
           output_action: commit
+          output_condition: always 
